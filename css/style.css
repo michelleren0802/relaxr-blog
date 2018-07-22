@@ -1,0 +1,186 @@
+h1 {
+	color: #FFF;
+	font-family: 'Open Sans', sans-serif;
+	float: left;
+	font-size: 65px;
+	font-weight: 800;
+	text-align: center;
+}
+
+header {
+	background-color: #033048;
+	padding-left: 100px;
+}
+ul li {
+	display: inline-block;
+}
+body {
+	background: #f0efef;
+}
+nav {
+	font-weight: 500;
+	font-family: "Open Sans", sans-serif;
+	float: right;
+	font-size: 24px;
+	padding: 50px;
+	padding-left: 20px;
+}
+
+a {
+	color:#f9e42e;
+	text-decoration: none;
+	padding: 10px;
+}
+
+.clearfix::after {
+	content: "";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+
+h2 {
+	font-size: 40px;
+	font-weight: 550;
+	color: #033048;
+	font-family: "Open Sans", sans-serif;
+}
+
+
+section {
+	padding: 40px;
+	width: 700px;
+	padding-right: 60px;
+	float:left;
+}
+
+p {
+	font-size: 24px;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 100;
+}
+
+span {
+	font-size: 80px;
+	float: left;
+}
+
+aside {
+	width: 300px;
+	padding: 40px;
+	float: right;
+}
+
+h3 {
+	font-size: 32px;
+	font-weight: 900;
+	color: #033048;
+}
+
+aside ul {
+	margin: 0;
+	padding: 0;
+}
+
+aside ul li {
+	font-size: 24px;
+	font-weight: 100;
+	font-family: "Open Sans", sans-serif;
+	display: block;
+	padding:5px;
+	margin-right: 20px;
+}
+
+main {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-right: 100px;
+	padding-left: 100px;
+}
+
+aside p {
+	font-size: 22px;
+	font-weight: 100;
+}
+
+aside a {
+	color: #033048;
+	font-size: 22px
+}
+
+article a {
+	float: right;
+	font-size: 24px;
+	font-weight: 700;
+	color: #033048;
+}
+
+.quote{
+	font-size: 40px;
+	font-weight: 550;
+	color: #033048;
+	font-family: "Open Sans", sans-serif;
+	padding: 40px;
+	width: 700px;
+	padding-right: 60px;
+}
+
+.readmore {
+	float: right;
+	font-size: 24px;
+	font-weight: 700;
+	color: #033048;
+}
+
+.signup {
+	background-color: #f9e42e;
+	padding: 40px;
+	text-align: center;
+}
+
+.link {
+	color:#FFF;
+	font-size: 28px;
+	background-color: #033048;
+	padding: 10px;
+	padding-right: 40px;
+	padding-left: 40px;
+}
+
+h4 {
+	font-size: 48px;
+	font-weight: 800;
+	color: #f9e42e;
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 80px;
+}
+
+.copyright {
+	font-size: 18px;
+	font-weight: 550;
+	color: #FFF;
+	padding-bottom: 80px;
+	margin-left: 570px;
+}
+
+footer {
+	background-color: black;
+}
+
+.socialmedia {
+	padding-left: 600px;
+	padding-top: 5px;
+	text-align: center;
+}
+
+.twitter {
+	padding-left: 500px;
+
+}
+
+.fb {
+	padding-left: 60px;
+
+}
